@@ -25,7 +25,7 @@ Before you begin, ensure you have the latest version of [Node.js](https://nodejs
    cd notetaking-app
 3. Install the required dependencies:
    ```bash
-   cd notetaking-app
+   npm install
 4. Start the application:
    ```bash
    npm start
